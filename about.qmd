@@ -11,4 +11,4 @@ Studying Ecosystem Science and Sustainability with a minor in Watershed Science.
 
 Pictures:
 
-![![](media/Perry Small.jpeg)](media/Rocky-Mountain.JPG){fig-align="center" width="322"}
+![![](media/Perry%20Small.jpeg)](media/Rocky-Mountain.JPG){fig-align="center" width="322"}
