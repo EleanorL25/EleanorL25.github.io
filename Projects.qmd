@@ -1,0 +1,10 @@
+---
+title: "Projects"
+author: Eleanor Lindsey
+---
+
+![](media/Watershed-Practicum Small.jpeg)
+
+Watershed practicum trip (Summer 2024). A group of watershed science students and I went on a week long trip along the Uncompahgre watershed and talked with professionals in various fields of environmental science. We learned how to use different field equipment.
+
+![](media/Wetland.jpeg){fig-align="right" width="318"}

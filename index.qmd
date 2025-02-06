@@ -7,12 +7,12 @@ about:
   image-shape: round
   image-width: 17em
   links: 
-    -text: Instagram
-    -href:https://www.instagram.com/enor_03/?next=%2F
+    - text: Email
+      href: eleanorllindsey@gmail.com
+    - text: Instagram
+      href: https://www.instagram.com/enor_03/
+    - text: Linkedin
+      href: https://www.linkedin.com/in/eleanor-lindsey-a69789310/
 ---
 
-Hello! My name is Eleanor, I am a senior at CSU studying ecosystem science and sustainability with a minor in watershed science. Outside of school I enjoy hiking, reading, and thrifting. Currently I am obsessed with the color olive green. Feel free to poke around my website :)
-
-```{r}
-1 + 1
-```
+Hello! This is my personal website where I will share information about me, my education, experience, and career goals. :)
