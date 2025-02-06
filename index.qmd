@@ -13,6 +13,8 @@ about:
       href: https://www.instagram.com/enor_03/
     - text: Linkedin
       href: https://www.linkedin.com/in/eleanor-lindsey-a69789310/
+    - text: Github
+      href: https://github.com/EleanorL25
 ---
 
 Hello! This is my personal website where I will share information about me, my education, experience, and career goals. :)
