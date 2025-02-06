@@ -3,7 +3,17 @@ title: "Projects"
 author: Eleanor Lindsey
 ---
 
-![](media/Watershed-Practicum Small.jpeg)
+In the Spring semester of 2025 I took a class titled Quantitative Reasoning which was based in R. I wrote lots of code and put together some different projects. Below I have posted links to some of this work.
+
+What I learned from this activity:
+
+-   How to connect projects to github
+
+-   A more in depth view of Rstudio and the mechanics available to use
+
+-   How to set up by folders to be better organized
+
+![](media/Watershed-Practicum%20Small.jpeg)
 
 Watershed practicum trip (Summer 2024). A group of watershed science students and I went on a week long trip along the Uncompahgre watershed and talked with professionals in various fields of environmental science. We learned how to use different field equipment.
 
