@@ -8,7 +8,7 @@ about:
   image-width: 17em
   links: 
     - text: Email
-      href: eleanorllindsey@gmail.com
+      href: https://eleanorllindsey@gmail.com
     - text: Instagram
       href: https://www.instagram.com/enor_03/
     - text: Linkedin
@@ -17,4 +17,4 @@ about:
       href: https://github.com/EleanorL25
 ---
 
-Hello! This is my personal website where I will share information about me, my education, experience, and career goals. :)
+Hello! My name is Eleanor Lindsey. This is my personal website where I will share information about me, my education, experience, and career goals. Currently I am finishing up my senior year of undergraduate school at Colorado State University where I am studying Environmental Science. I have experience in field techniques, GIS, and RStudio. Feel free to look through my website and read out via the links below!

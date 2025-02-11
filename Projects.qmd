@@ -18,3 +18,5 @@ What I learned from this activity:
 Watershed practicum trip (Summer 2024). A group of watershed science students and I went on a week long trip along the Uncompahgre watershed and talked with professionals in various fields of environmental science. We learned how to use different field equipment.
 
 ![](media/Wetland.jpeg){fig-align="right" width="318"}
+
+Over the summer I worked as an intern for H2E, and environmental consultation company. While working with them I was able to go out and conduct vegetation and storm water assessments for various oil and gas sites. I compiled weekly reports and made map changes in ArcGIS when applicable.
