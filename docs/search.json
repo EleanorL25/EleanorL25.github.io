@@ -4,14 +4,14 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "Education:\nCurrently a senior at Colorado State University.\nStudying Ecosystem Science and Sustainability with a minor in Watershed Science.\nPictures:"
+    "text": "About Me:\nI am currently a senior in Ecosystem Science and Sustainability at Colorado State University. Minoring in Watershed Science. I am expected to graduate December of 2025. I love reading, listening to music, and going on hikes with my dog, Perry. I am interested in stream health management, ecosystem reclamation, and building better sustainable approaches for businesses.\nPictures:"
   },
   {
     "objectID": "Projects.html",
     "href": "Projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Watershed practicum trip (Summer 2024). A group of watershed science students and I went on a week long trip along the Uncompahgre watershed and talked with professionals in various fields of environmental science. We learned how to use different field equipment."
+    "text": "In the Spring semester of 2025 I took a class titled Quantitative Reasoning which was based in R. I wrote lots of code and put together some different projects. Below I have posted links to some of this work.\nWhat I learned from this activity:\n\nHow to connect projects to github\nA more in depth view of Rstudio and the mechanics available to use\nHow to set up by folders to be better organized\n\n\nWatershed practicum trip (Summer 2024). A group of watershed science students and I went on a week long trip along the Uncompahgre watershed and talked with professionals in various fields of environmental science. We learned how to use different field equipment.\n\n\n\n\n\nOver the summer I worked as an intern for H2E, and environmental consultation company. While working with them I was able to go out and conduct vegetation and storm water assessments for various oil and gas sites. I compiled weekly reports and made map changes in ArcGIS when applicable."
   },
   {
     "objectID": "Resume.html",
@@ -25,6 +25,6 @@
     "href": "index.html",
     "title": "Eleanor Lindsey",
     "section": "",
-    "text": "Hello! This is my personal website where I will share information about me, my education, experience, and career goals. :)"
+    "text": "Hello! My name is Eleanor Lindsey. This is my personal website where I will share information about me, my education, experience, and career goals. Currently I am finishing up my senior year of undergraduate school at Colorado State University where I am studying Environmental Science. I have experience in field techniques, GIS, and RStudio. Feel free to look through my website and read out via the links below!"
   }
 ]
