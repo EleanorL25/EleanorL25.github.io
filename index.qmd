@@ -8,7 +8,7 @@ about:
   image-width: 17em
   links: 
     - text: Email
-      href: https://eleanorllindsey@gmail.com
+      href: mailto://eleanorllindsey@gmail.com
     - text: Instagram
       href: https://www.instagram.com/enor_03/
     - text: Linkedin
