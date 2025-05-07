@@ -18,6 +18,7 @@ format:
       - cosmo
       - brand
     css: styles.css
+    mainfont: comic sans
     toc: true
 
 editor: visual

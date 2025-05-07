@@ -6,25 +6,25 @@ Eleanor L. Lindsey
 
 Fort Collins, CO 80521.eleanorllindsey\@gmail.com.(417) 813-3591
 
-**EDUCATION**
+## **EDUCATION**
 
-**Colorado State University. Fort Collins, CO				August 2022-December 2025**
+**Colorado State University. Fort Collins, CO August 2022-December 2025**
 
 -   Bachelor of Science, Ecosystem Science and Sustainability
 
 -   Minor in Watershed Science
 
-    -   Warner College of Natural Resources Dean’s List					
+    -   Warner College of Natural Resources Dean’s List
 
-**GIS, TECHNOLOGY EXPERIENCE**
+## **GIS, TECHNOLOGY EXPERIENCE**
 
-**Environmental Technician Intern						May 2024-August 2024**
+**Environmental Technician Intern May 2024-August 2024**
 
 H2E Incorporated, Denver, CO
 
 -   Monitor vegetative growth in areas of reclamation.
 
--   Conduct stormwater inspections and provide weekly reports.
+-   Conduct storm water inspections and provide weekly reports.
 
 -   Work with ArcGIS Online to map changes to the environment post inspection.
 
@@ -32,9 +32,9 @@ H2E Incorporated, Denver, CO
 
 -   Ensure CDPHE and COGCC regulations are being maintained on sites under H2E contract.
 
-**PROBLEM-SOLVING EXPERIENCE**
+## **PROBLEM-SOLVING EXPERIENCE**
 
-**Pack Leader									May 2024-August 2022**
+**Pack Leader May 2024-August 2022**
 
 A Dogs World South, Littleton, CO
 
@@ -44,7 +44,7 @@ A Dogs World South, Littleton, CO
 
 -   Adept at administering oral medication and monitoring health issues.
 
-**RELEVANT COURSEWORK**
+## **RELEVANT COURSEWORK**
 
 **Limnology**
 
@@ -58,18 +58,10 @@ A Dogs World South, Littleton, CO
 
 -   Fundamental concepts of geospatial data, including structure, coordinate systems, sources, and principles of map design. Applications and methods for spatial analysis using vector and raster data, and remote sensing techniques.
 
-**SUSTAINABILITY ACTIVITIES**
+## **SUSTAINABILITY ACTIVITIES**
 
--   Society for Ecological Restoration Club.					**Fall 2023-Present**
+-   Society for Ecological Restoration Club. **Fall 2023-Present**
 
--   Ecosystem Science and Sustainability Club.				**Spring 2023-Present**
+-   Ecosystem Science and Sustainability Club. **Spring 2023-Present**
 
--   Watershed Field practicum.						**Summer 2024**	
-
-**SUSTAINABILITY ACTIVITIES**
-
--   Society for Ecological Restoration Club.					**Fall 2023-Present**
-
--   Ecosystem Science and Sustainability Club.				**Spring 2023-Present**	
-
--   Watershed Field practicum.						**Summer 2024**
+-   Watershed Field practicum. **Summer 2024**

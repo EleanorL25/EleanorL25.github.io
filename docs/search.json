@@ -4,27 +4,146 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "About Me:\nI am currently a senior in Ecosystem Science and Sustainability at Colorado State University. Minoring in Watershed Science. I am expected to graduate December of 2025. I love reading, listening to music, and going on hikes with my dog, Perry. I am interested in stream health management, ecosystem reclamation, and building better sustainable approaches for businesses.\nPictures:"
+    "text": "About Me:\nI am currently a senior in Ecosystem Science and Sustainability at Colorado State University. Minoring in Watershed Science. I am expected to graduate December of 2025. I love reading, listening to music, and going on hikes with my dog, Perry. I am interested in stream health management, ecosystem reclamation, and building better sustainable approaches for businesses.\n\n\nPictures:"
   },
   {
     "objectID": "Projects.html",
     "href": "Projects.html",
     "title": "Projects",
     "section": "",
-    "text": "In the Spring semester of 2025 I took a class titled Quantitative Reasoning which was based in R. I wrote lots of code and put together some different projects. Below I have posted links to some of this work.\nWhat I learned from this activity:\n\nHow to connect projects to github\nA more in depth view of Rstudio and the mechanics available to use\nHow to set up by folders to be better organized\n\n\nWatershed practicum trip (Summer 2024). A group of watershed science students and I went on a week long trip along the Uncompahgre watershed and talked with professionals in various fields of environmental science. We learned how to use different field equipment.\n\n\n\n\n\nOver the summer I worked as an intern for H2E, and environmental consultation company. While working with them I was able to go out and conduct vegetation and storm water assessments for various oil and gas sites. I compiled weekly reports and made map changes in ArcGIS when applicable."
+    "text": "In the Spring semester of 2025 I took a class titled Quantitative Reasoning which was based in R. I wrote lots of code and put together some different projects. Below I have posted links to some of this work.\nWhat I learned from this activity:\n\nHow to connect projects to github\nA more in depth view of Rstudio and the mechanics available to use\nHow to set up by folders to be better organized\n\n\n\nWatershed practicum trip (Summer 2024). A group of watershed science students and I went on a week long trip along the Uncompahgre watershed and talked with professionals in various fields of environmental science. We learned how to use different field equipment.\n\n\n\n\n\n\n\n\n\nOver the summer I worked as an intern for H2E, and environmental consultation company. While working with them I was able to go out and conduct vegetation and storm water assessments for various oil and gas sites. I compiled weekly reports and made map changes in ArcGIS when applicable."
   },
   {
     "objectID": "Resume.html",
     "href": "Resume.html",
     "title": "Resume",
     "section": "",
-    "text": "Eleanor L. Lindsey\nFort Collins, CO 80521.eleanorllindsey@gmail.com.(417) 813-3591\nEDUCATION\nColorado State University. Fort Collins, CO August 2022-December 2025\n\nBachelor of Science, Ecosystem Science and Sustainability\nMinor in Watershed Science\n\nWarner College of Natural Resources Dean’s List\n\n\nGIS, TECHNOLOGY EXPERIENCE\nEnvironmental Technician Intern May 2024-August 2024\nH2E Incorporated, Denver, CO\n\nMonitor vegetative growth in areas of reclamation.\nConduct stormwater inspections and provide weekly reports.\nWork with ArcGIS Online to map changes to the environment post inspection.\nEngage in learning about environmental practices within the oil and gas field.\nEnsure CDPHE and COGCC regulations are being maintained on sites under H2E contract.\n\nPROBLEM-SOLVING EXPERIENCE\nPack Leader May 2024-August 2022\nA Dogs World South, Littleton, CO\n\nProviding a safe environment for both dogs and coworkers.\nSupervised groups of up to 30 dogs of different sizes and temperaments.\nAdept at administering oral medication and monitoring health issues.\n\nRELEVANT COURSEWORK\nLimnology\n\nStudying the biology, chemistry, and physics of lakes including limnological methods and tools.\n\nEcology\n\nInterrelationships among organisms and their environments using conceptual models and quantitative approaches.\n\nIntroduction to Geospatial Science\n\nFundamental concepts of geospatial data, including structure, coordinate systems, sources, and principles of map design. Applications and methods for spatial analysis using vector and raster data, and remote sensing techniques.\n\nSUSTAINABILITY ACTIVITIES\n\nSociety for Ecological Restoration Club. Fall 2023-Present\nEcosystem Science and Sustainability Club. Spring 2023-Present\nWatershed Field practicum. Summer 2024\n\nSUSTAINABILITY ACTIVITIES\n\nSociety for Ecological Restoration Club. Fall 2023-Present\nEcosystem Science and Sustainability Club. Spring 2023-Present\nWatershed Field practicum. Summer 2024"
+    "text": "Eleanor L. Lindsey\nFort Collins, CO 80521.eleanorllindsey@gmail.com.(417) 813-3591"
+  },
+  {
+    "objectID": "Resume.html#education",
+    "href": "Resume.html#education",
+    "title": "Resume",
+    "section": "EDUCATION",
+    "text": "EDUCATION\nColorado State University. Fort Collins, CO August 2022-December 2025\n\nBachelor of Science, Ecosystem Science and Sustainability\nMinor in Watershed Science\n\nWarner College of Natural Resources Dean’s List"
+  },
+  {
+    "objectID": "Resume.html#gis-technology-experience",
+    "href": "Resume.html#gis-technology-experience",
+    "title": "Resume",
+    "section": "GIS, TECHNOLOGY EXPERIENCE",
+    "text": "GIS, TECHNOLOGY EXPERIENCE\nEnvironmental Technician Intern May 2024-August 2024\nH2E Incorporated, Denver, CO\n\nMonitor vegetative growth in areas of reclamation.\nConduct storm water inspections and provide weekly reports.\nWork with ArcGIS Online to map changes to the environment post inspection.\nEngage in learning about environmental practices within the oil and gas field.\nEnsure CDPHE and COGCC regulations are being maintained on sites under H2E contract."
+  },
+  {
+    "objectID": "Resume.html#problem-solving-experience",
+    "href": "Resume.html#problem-solving-experience",
+    "title": "Resume",
+    "section": "PROBLEM-SOLVING EXPERIENCE",
+    "text": "PROBLEM-SOLVING EXPERIENCE\nPack Leader May 2024-August 2022\nA Dogs World South, Littleton, CO\n\nProviding a safe environment for both dogs and coworkers.\nSupervised groups of up to 30 dogs of different sizes and temperaments.\nAdept at administering oral medication and monitoring health issues."
+  },
+  {
+    "objectID": "Resume.html#relevant-coursework",
+    "href": "Resume.html#relevant-coursework",
+    "title": "Resume",
+    "section": "RELEVANT COURSEWORK",
+    "text": "RELEVANT COURSEWORK\nLimnology\n\nStudying the biology, chemistry, and physics of lakes including limnological methods and tools.\n\nEcology\n\nInterrelationships among organisms and their environments using conceptual models and quantitative approaches.\n\nIntroduction to Geospatial Science\n\nFundamental concepts of geospatial data, including structure, coordinate systems, sources, and principles of map design. Applications and methods for spatial analysis using vector and raster data, and remote sensing techniques."
+  },
+  {
+    "objectID": "Resume.html#sustainability-activities",
+    "href": "Resume.html#sustainability-activities",
+    "title": "Resume",
+    "section": "SUSTAINABILITY ACTIVITIES",
+    "text": "SUSTAINABILITY ACTIVITIES\n\nSociety for Ecological Restoration Club. Fall 2023-Present\nEcosystem Science and Sustainability Club. Spring 2023-Present\nWatershed Field practicum. Summer 2024"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Eleanor Lindsey",
     "section": "",
-    "text": "Hello! My name is Eleanor Lindsey. This is my personal website where I will share information about me, my education, experience, and career goals. Currently I am finishing up my senior year of undergraduate school at Colorado State University where I am studying Environmental Science. I have experience in field techniques, GIS, and RStudio. Feel free to look through my website and read out via the links below!"
+    "text": "Hello! My name is Eleanor Lindsey. This is my personal website where I will share information about me, my education, experience, and career goals. Currently I am finishing up my senior year of undergraduate school at Colorado State University where I am studying Environmental Science. I have experience in field techniques, GIS, and RStudio. Feel free to look through my website and reach out via the links below!"
+  },
+  {
+    "objectID": "Projects.html#watershed-practicum",
+    "href": "Projects.html#watershed-practicum",
+    "title": "Projects",
+    "section": "",
+    "text": "Watershed practicum trip (Summer 2024). A group of watershed science students and I went on a week long trip along the Uncompahgre watershed and talked with professionals in various fields of environmental science. We learned how to use different field equipment."
+  },
+  {
+    "objectID": "Projects.html#environmental-internship",
+    "href": "Projects.html#environmental-internship",
+    "title": "Projects",
+    "section": "",
+    "text": "Over the summer I worked as an intern for H2E, and environmental consultation company. While working with them I was able to go out and conduct vegetation and storm water assessments for various oil and gas sites. I compiled weekly reports and made map changes in ArcGIS when applicable."
+  },
+  {
+    "objectID": "Projects.html#lab-2-minnesota-tree-growth",
+    "href": "Projects.html#lab-2-minnesota-tree-growth",
+    "title": "Projects",
+    "section": "lab 2: Minnesota Tree Growth",
+    "text": "lab 2: Minnesota Tree Growth\n\n\n\nFinal question in Lab 2 pulling the top three fastest growing trees\n\n\nFrom this lab I learned how to create tibbles and to filter data into a format that answers precise questions. I also learned how to use dplyr."
+  },
+  {
+    "objectID": "Projects.html#lab-3-covid-wrangling",
+    "href": "Projects.html#lab-3-covid-wrangling",
+    "title": "Projects",
+    "section": "Lab 3: COVID Wrangling",
+    "text": "Lab 3: COVID Wrangling\n\n\n\nFinal question in lab 3 creating a figure of the weighted mean covid center in the US\n\n\nFrom this lab I learned more about flextables and how to read in data into R studio. I also gained confidence in mapping and data cleaning/assigning through this lab."
+  },
+  {
+    "objectID": "Projects.html#lab-4-lter-network-data",
+    "href": "Projects.html#lab-4-lter-network-data",
+    "title": "Projects",
+    "section": "Lab 4: LTER Network Data",
+    "text": "Lab 4: LTER Network Data\n\n\n\nExercises part 2: question 1 asking for a boxplot of the average crab width per site organized by latitude.\n\n\nFrom this lab I learned a lot about R in general. I was exposed to correlation tests, graphing with detailed organization, and how to conduct linear regressions in R. I was also introduced to the ggpubr package in this lab which has continued to be implemented in labs throughout the semester."
+  },
+  {
+    "objectID": "Projects.html#lab-5-personal-project-proposal",
+    "href": "Projects.html#lab-5-personal-project-proposal",
+    "title": "Projects",
+    "section": "lab 5: Personal Project Proposal",
+    "text": "lab 5: Personal Project Proposal\n\n\n\nPersonal project proposals added to a quarto manuscript.\n\n\nThis lab was a huge step forward in my understanding of what all R studio can accomplish. We created a quarto manuscript to create a draft website for our final project. This lab allowed my teammates and I to come up with two questions we could explore in R. I learned how to use a reference page in R to cite my sources, how to add other collaborators, how to organize a quarto manuscript, and further exercised my knowledge on personalizing a website page in R."
+  },
+  {
+    "objectID": "Projects.html#lab-6-ml-workflows",
+    "href": "Projects.html#lab-6-ml-workflows",
+    "title": "Projects",
+    "section": "Lab 6: ML Workflows",
+    "text": "Lab 6: ML Workflows\n\n\n\nQuestion 2 in lab 6 that compares daily precipitation to aridity within the US.\n\n\nThis lab marked the second half of the semester as it was the first lab back from spring break. The difference. between this lab and the earlier ones is that this lab strayed from basics in R and started getting into how researchers actually use R. I learned how to build, test, and use different models as well as how to decide which models are better than others depending on the data loaded into R. I also cemented knowledge on how to use ggplot2 to create intelligent graphs that describe and show data in a concise, clean way."
+  },
+  {
+    "objectID": "Projects.html#lab-7-project-kickoff",
+    "href": "Projects.html#lab-7-project-kickoff",
+    "title": "Projects",
+    "section": "Lab 7: Project Kickoff",
+    "text": "Lab 7: Project Kickoff\n\n\n\nResults section of our project to depict the relationship between tree cover loss and temperature.\n\n\nThis lab was a continuation of lab 5 in that our group chose a research question and completed data analysis on a set of data we pulled, cleaned, and analyzed by ourselves. Through this lab I learned how to gather my own data, read it into R, clean it in R, and analyze it to answer a distinct question crafted by my team and I. I also learned how to use ggplotly to make our graphs more detailed."
+  },
+  {
+    "objectID": "Projects.html#lab-8-ml-tuning",
+    "href": "Projects.html#lab-8-ml-tuning",
+    "title": "Projects",
+    "section": "Lab 8: ML Tuning",
+    "text": "Lab 8: ML Tuning\n\n\n\n3x3 figure of relationships between various parameters of data in lab 8.\n\n\n\n\n\nGraph of model testing for the final part of lab 8.\n\n\nThis lab was the second part to lab 6 (ML Workflow) and acted as the interpretation of the random forest model from the previous lab. I learned how to add a shadow to a line of best fit within ggplot2 and how to determine the accuracy of models in R. I also gained knowledge in the various models available to use in data interpretation in R."
+  },
+  {
+    "objectID": "Projects.html#lab-9-resultsdiscussion-draft",
+    "href": "Projects.html#lab-9-resultsdiscussion-draft",
+    "title": "Projects",
+    "section": "Lab 9: Results/Discussion Draft",
+    "text": "Lab 9: Results/Discussion Draft\n\n\n\nDiscussion section of our final report for personal project.\n\n\nThis was the final draft of our report for the personal project. The lab as an accumulation of everything we have worked on including the research, data analysis, data visualization, results, and conclusion. From this lab I strengthened my interpretation skills as well as my knowledge on how to trouble shoot in R for various errors. I also learned how to rename a website without changing the name of the file."
+  },
+  {
+    "objectID": "Projects.html#lab-10-distance-to-the-border",
+    "href": "Projects.html#lab-10-distance-to-the-border",
+    "title": "Projects",
+    "section": "Lab 10: Distance to the Border",
+    "text": "Lab 10: Distance to the Border\n\n\n\ngraph of cities in the US that are qual distance from Canada as they are from Mexico.\n\n\nThis lab was one of my favorites if not my favorite. I learned so much more about ggplot and what all it can do. This was also the first lab where I felt like I understood what I was doing the entire lab. I learned how to color graphs on a scale rather than one solid color."
+  },
+  {
+    "objectID": "Projects.html#lab-11-lightning-talks",
+    "href": "Projects.html#lab-11-lightning-talks",
+    "title": "Projects",
+    "section": "Lab 11: Lightning Talks",
+    "text": "Lab 11: Lightning Talks\n\n\n\nConclusion slide from our groups lightning talk for lab.\n\n\nThis lab was just a presentation of everyone’s projects. ADD WHAT I LEARNED AFTER LAB TO ADD IF I LEARNED ANYTHING FROM OTHER PROJECTS."
   }
 ]
