@@ -31,62 +31,62 @@ Over the summer I worked as an intern for H2E, and environmental consultation co
 
 ## lab 2: Minnesota Tree Growth
 
-![Final question in Lab 2 pulling the top three fastest growing trees](Screenshot 2025-05-07 at 10.12.44 AM.png){width="578"}
+![Final question in Lab 2 pulling the top three fastest growing trees](lab-2.png)
 
 From this lab I learned how to create tibbles and to filter data into a format that answers precise questions. I also learned how to use dplyr.
 
 ## Lab 3: COVID Wrangling
 
-![Final question in lab 3 creating a figure of the weighted mean covid center in the US](Screenshot 2025-05-07 at 10.22.15 AM.png){width="589"}
+![Final question in lab 3 creating a figure of the weighted mean covid center in the US](lab-3.png)
 
 From this lab I learned more about flextables and how to read in data into R studio. I also gained confidence in mapping and data cleaning/assigning through this lab.
 
 ## Lab 4: LTER Network Data
 
-![Exercises part 2: question 1 asking for a boxplot of the average crab width per site organized by latitude.](Screenshot 2025-05-07 at 10.28.11 AM.png){width="604"}
+![Exercises part 2: question 1 asking for a boxplot of the average crab width per site organized by latitude.](lab-4.png)
 
 From this lab I learned a lot about R in general. I was exposed to correlation tests, graphing with detailed organization, and how to conduct linear regressions in R. I was also introduced to the ggpubr package in this lab which has continued to be implemented in labs throughout the semester.
 
 ## lab 5: Personal Project Proposal
 
-![Personal project proposals added to a quarto manuscript.](Screenshot 2025-05-07 at 10.34.10 AM.png){width="459"}
+![Personal project proposals added to a quarto manuscript.](lab-5.png)
 
 This lab was a huge step forward in my understanding of what all R studio can accomplish. We created a quarto manuscript to create a draft website for our final project. This lab allowed my teammates and I to come up with two questions we could explore in R. I learned how to use a reference page in R to cite my sources, how to add other collaborators, how to organize a quarto manuscript, and further exercised my knowledge on personalizing a website page in R.
 
 ## Lab 6: ML Workflows
 
-![Question 2 in lab 6 that compares daily precipitation to aridity within the US.](Screenshot 2025-05-07 at 10.40.07 AM.png){width="571"}
+![Question 2 in lab 6 that compares daily precipitation to aridity within the US.](lab-6.png)
 
 This lab marked the second half of the semester as it was the first lab back from spring break. The difference. between this lab and the earlier ones is that this lab strayed from basics in R and started getting into how researchers actually use R. I learned how to build, test, and use different models as well as how to decide which models are better than others depending on the data loaded into R. I also cemented knowledge on how to use ggplot2 to create intelligent graphs that describe and show data in a concise, clean way.
 
 ## Lab 7: Project Kickoff
 
-![Results section of our project to depict the relationship between tree cover loss and temperature.](Screenshot 2025-05-07 at 10.45.04 AM.png){width="560"}
+![Results section of our project to depict the relationship between tree cover loss and temperature.](lab-7.png)
 
 This lab was a continuation of lab 5 in that our group chose a research question and completed data analysis on a set of data we pulled, cleaned, and analyzed by ourselves. Through this lab I learned how to gather my own data, read it into R, clean it in R, and analyze it to answer a distinct question crafted by my team and I. I also learned how to use ggplotly to make our graphs more detailed.
 
 ## Lab 8: ML Tuning
 
-![3x3 figure of relationships between various parameters of data in lab 8.](Screenshot 2025-05-07 at 11.01.41 AM.png){width="550"}
+![3x3 figure of relationships between various parameters of data in lab 8.](lab-8.png)
 
-![Graph of model testing for the final part of lab 8.](Screenshot 2025-05-07 at 11.02.07 AM.png){width="526"}
+![Graph of model testing for the final part of lab 8.](lab-8.2.png)
 
 This lab was the second part to lab 6 (ML Workflow) and acted as the interpretation of the random forest model from the previous lab. I learned how to add a shadow to a line of best fit within ggplot2 and how to determine the accuracy of models in R. I also gained knowledge in the various models available to use in data interpretation in R.
 
 ## Lab 9: Results/Discussion Draft
 
-![Discussion section of our final report for personal project.](Screenshot 2025-05-07 at 11.06.21 AM.png){width="468"}
+![Discussion section of our final report for personal project.](lab-9.png)
 
 This was the final draft of our report for the personal project. The lab as an accumulation of everything we have worked on including the research, data analysis, data visualization, results, and conclusion. From this lab I strengthened my interpretation skills as well as my knowledge on how to trouble shoot in R for various errors. I also learned how to rename a website without changing the name of the file.
 
 ## Lab 10: Distance to the Border
 
-![graph of cities in the US that are qual distance from Canada as they are from Mexico.](Screenshot 2025-05-07 at 11.10.43 AM.png){width="569"}
+![graph of cities in the US that are qual distance from Canada as they are from Mexico.](lab-10.png)
 
 This lab was one of my favorites if not my favorite. I learned so much more about ggplot and what all it can do. This was also the first lab where I felt like I understood what I was doing the entire lab. I learned how to color graphs on a scale rather than one solid color.
 
 ## Lab 11: Lightning Talks
 
-![Conclusion slide from our groups lightning talk for lab.](Screenshot 2025-05-07 at 11.15.29 AM.png){width="560"}
+![Conclusion slide from our groups lightning talk for lab.](lab-11.png)
 
 This lab was just a presentation of everyone's projects. ADD WHAT I LEARNED AFTER LAB TO ADD IF I LEARNED ANYTHING FROM OTHER PROJECTS.
